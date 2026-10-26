@@ -1,6 +1,6 @@
 # Minimal ROS 2 (Superbuild)
 
-[![CI](https://github.com/adeguet1/minimal_ros2/actions/workflows/ci.yml/badge.svg)](https://github.com/adeguet1/minimal_ros2/actions/workflows/ci.yml)
+[![CI](https://github.com/rosmed/minimal_ros2/actions/workflows/ci.yml/badge.svg)](https://github.com/rosmed/minimal_ros2/actions/workflows/ci.yml)
 
 A lightweight, standalone, self-contained ROS 2 distribution designed for native compilation on **macOS**, **Windows**, and **Linux**.
 
